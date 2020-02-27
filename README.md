@@ -1,2 +1,2 @@
 # SoumithVarmaK
-App developer,frony end devoloper
+App developer,front end devoloper
